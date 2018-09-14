@@ -1,0 +1,56 @@
+project:
+  name: "gohideit"
+  oneLiner: "Puts your files in a binary and asks you for a password to extract them"
+  state: "beta"
+  website: "https://github.com/bapply/gohideit"
+  description: |
+    Puts your files in a binary and asks you for a password to extract them
+  version: "v0.0.1"
+  mainLicense: "GPLv3"
+
+vision:
+  type: "personal"
+  overview: |
+    Puts your files in a binary and asks you for a password to extract them
+
+contributionLinks:
+  issueTemplate: "/.github/ISSUE_TEMPLATE.md"
+  starterIssues: "https://github.com/bapply/gohideit/labels/starter%20issue"
+
+supportLinks:
+  documentation: "/docs"
+
+readme:
+  usageExample: |
+    TODO
+
+docs:
+  development: |
+    TODO
+
+emails:
+  commercialSupport: "erbesharat@gmail.com"
+  security: "erbesharat@gmail.com"
+  coc: "erbesharat@gmail.com"
+
+copyright:
+  owner: "The gohideit authors"
+  year: "2018"
+
+cla:
+  copyrightHolder: "Erfan Besharat"
+
+maintainers:
+  - name: "Erfan Besharat"
+    nick: "erbesharat"
+
+repo:
+  link: "https://github.com/bapply/gohideit"
+  type: "Github"
+
+badges:
+  - image: "https://img.shields.io/badge/state-beta-blue.svg"
+    alt: "state"
+
+reposeed:
+  configVersion: "v1"
